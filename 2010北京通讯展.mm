@@ -7,15 +7,35 @@
 	TEXT="2010北京通讯展">
 <node FOLDED="true" ID="ID_1168990721" POSITION="left" 
 	TEXT="key point">
-<icon BUILTIN="flag"/>
-<node ID="ID_781503284" 
+<icon BUILTIN="bookmark"/>
+<node FOLDED="true" ID="ID_781503284" 
 	TEXT="三屏融合、内容共享">
 <icon BUILTIN="messagebox_warning"/>
+<node ID="ID_1498902917" 
+	TEXT="媒体文件多设备共享（文件互传方式）"/>
+<node ID="ID_235249348" 
+	TEXT="视频播放多屏切换（实时流媒体互传方式）"/>
+<node ID="ID_991375161" 
+	TEXT="通过服务器中转方式"/>
 </node>
-<node ID="ID_1170928930" 
-	TEXT="云"/>
+<node FOLDED="true" ID="ID_846818923" 
+	TEXT="三网融合">
+<node ID="ID_1502372926" 
+	TEXT="视频通讯"/>
+<node ID="ID_1684244042" 
+	TEXT="终端间内容共享"/>
+</node>
+<node FOLDED="true" ID="ID_1170928930" 
+	TEXT="云">
+<node ID="ID_1191367531" 
+	TEXT="瘦终端概念"/>
+</node>
 <node ID="ID_1118991806" 
 	TEXT="物联网"/>
+<node ID="ID_1381279126" 
+	TEXT="智能家居"/>
+<node ID="ID_1814279020" 
+	TEXT="新开发的业务多为android终端"/>
 </node>
 <node FOLDED="true" ID="ID_1676463417" POSITION="left" 
 	TEXT="运营商">
@@ -32,8 +52,11 @@
 	TEXT="翼机通（彩门）"/>
 <node ID="ID_82832125" 
 	TEXT="信息机"/>
-<node ID="ID_1016100200" 
-	TEXT="ishare"/>
+<node FOLDED="true" ID="ID_1016100200" 
+	TEXT="ishare">
+<node ID="ID_1916257317" 
+	TEXT="手机、电脑、开心网、家庭信息机等设备，都有账号。手机拍下的照片可以直接发送到指定设备"/>
+</node>
 <node FOLDED="true" ID="ID_1597079430" 
 	TEXT="5A家庭">
 <node ID="ID_1546615679" 
@@ -44,11 +67,8 @@
 </node>
 <node FOLDED="true" ID="ID_515480933" 
 	TEXT="中国联通">
-<node FOLDED="true" ID="ID_448966531" 
-	TEXT="VDC，成都云点科技给做的">
-<node ID="ID_1191367531" 
-	TEXT="瘦终端概念"/>
-</node>
+<node ID="ID_448966531" 
+	TEXT="云，VDC虚拟数据存储，成都云点科技给做的"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_213674782" POSITION="left" 
@@ -56,12 +76,12 @@
 <node FOLDED="true" ID="ID_533472557" 
 	TEXT="MTK">
 <node ID="ID_1134248342" 
-	TEXT="拍照自动拼接软件"/>
+	TEXT="一个有趣的软件：自动拼接全景照片拍摄软件"/>
 </node>
 <node FOLDED="true" ID="ID_1362364468" 
 	TEXT="Rickchip">
 <node ID="ID_556478658" 
-	TEXT="各种手机、各种pad"/>
+	TEXT="各种手机、各种pad，采用2818芯片"/>
 <node ID="ID_106195015" 
 	TEXT="3D芯片2816，效果还不太好"/>
 </node>
@@ -81,21 +101,6 @@
 </node>
 <node FOLDED="true" ID="ID_1917119526" POSITION="right" 
 	TEXT="方案及产品厂商">
-<node FOLDED="true" ID="ID_310890981" 
-	TEXT="华为">
-<node FOLDED="true" ID="ID_1238782828" 
-	TEXT="SingleCloud">
-<node ID="ID_108512835" 
-	TEXT="针对小型企业和分布式办公"/>
-</node>
-<node ID="ID_540556084" 
-	TEXT="云盘"/>
-</node>
-<node FOLDED="true" ID="ID_1906186931" 
-	TEXT="中兴">
-<node ID="ID_1566865631" 
-	TEXT="物联网"/>
-</node>
 <node FOLDED="true" ID="ID_409687490" 
 	TEXT="同洲">
 <richcontent TYPE="NOTE"><html>
@@ -107,8 +112,8 @@
       同洲电子已从2006年开始从“机顶盒生产厂商”向“广电综合业务解决方案提供商”转型。2008年，同洲电子开始提供端到端的一系列的解决方案，比如从前端系统到承载网，从接入到终端。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<icon BUILTIN="bookmark"/>
 <node FOLDED="true" ID="ID_598525580" STYLE="bubble" 
 	TEXT="“我甩我帅”">
 <node ID="ID_637424636" 
@@ -145,42 +150,58 @@
 </node>
 <node FOLDED="true" ID="ID_880092041" 
 	TEXT="三星">
-<node ID="ID_1266243626" 
-	TEXT="娱乐共享"/>
-<node ID="ID_637291838" 
-	TEXT="Moblile TV/Game"/>
+<node FOLDED="true" ID="ID_1266243626" 
+	TEXT="娱乐共享">
+<node ID="ID_1119878547" 
+	TEXT="DLNA"/>
+</node>
+<node FOLDED="true" ID="ID_637291838" 
+	TEXT="Moblile TV/Game">
+<node FOLDED="true" ID="ID_756555587" 
+	TEXT="i909手机">
+<node ID="ID_341281324" 
+	TEXT="高清音视频输出（非HDMI）"/>
+<node FOLDED="true" ID="ID_1794503201" 
+	TEXT="Hummingbird 芯片">
+<node ID="ID_109395003" 
+	TEXT="Contax A8"/>
+<node ID="ID_593499562" 
+	TEXT="1G"/>
+</node>
+</node>
+<node ID="ID_1591192944" 
+	TEXT="演示用手机玩赛车（或看电影），大屏幕同时输出，效果非常好"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_215495227" 
 	TEXT="UTStarcom">
 <node FOLDED="true" ID="ID_177820501" 
 	TEXT="“奔流”IPTV全套方案">
 <node ID="ID_537384894" 
-	TEXT="三网融合试点--云浮">
-<icon BUILTIN="help"/>
+	TEXT="三网融合试点--广东云浮市"/>
 </node>
-</node>
-<node FOLDED="true" ID="ID_1602947896" 
+<node FOLDED="true" ID="ID_1602947896" LINK="http://www.utstar.com.cn/productAndSolution/RollingStream/seriesProduct/1807.aspx" STYLE="bubble" 
 	TEXT="乐炫 &quot;Le Shine&quot; 全功能家庭数字多媒体中心">
-<node ID="ID_620948193" 
-	TEXT="支持泰山游戏"/>
-<node ID="ID_995485057" 
-	TEXT="视频通讯、电视短信，个人、公共视频监控等各种视频信息的接入"/>
-<node ID="ID_1307994051" 
-	TEXT="3D 图片墙"/>
-<node ID="ID_19870048" 
-	TEXT="非全格式解码"/>
-<node ID="ID_175392976" 
-	TEXT="Wifi-Smart Touch 遥控"/>
-<node ID="ID_1636854743" 
-	TEXT="体感游戏手柄遥控"/>
-<node ID="ID_1295446829" 
-	TEXT="基于 mini-第4屏技术的可视遥控器"/>
 <node ID="ID_1787165925" 
 	TEXT="Atom 3300 芯片"/>
 <node ID="ID_1102213946" 
 	TEXT="Linux / Windows XPE"/>
 <node ID="ID_795071195" 
 	TEXT="Nvidia GeForce 9400集成芯片组"/>
+<node ID="ID_620948193" 
+	TEXT="支持泰山游戏"/>
+<node ID="ID_995485057" 
+	TEXT="视频通讯、电视短信，个人、公共视频监控等各种视频信息的接入"/>
+<node ID="ID_175392976" 
+	TEXT="Wifi-Smart Touch 遥控"/>
+<node ID="ID_1295446829" 
+	TEXT="基于 mini-第4屏技术的可视遥控器"/>
+<node ID="ID_1636854743" 
+	TEXT="体感游戏手柄遥控"/>
+<node ID="ID_1307994051" 
+	TEXT="3D 图片墙"/>
+<node ID="ID_19870048" 
+	TEXT="非全格式解码"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1026063313" 
@@ -188,17 +209,45 @@
 <node FOLDED="true" ID="ID_1855445574" 
 	TEXT="智能家居">
 <node ID="ID_1922229259" 
-	TEXT="射频433技术，控制家庭电气设备"/>
+	TEXT="采用射频433技术，控制家庭电气设备"/>
 </node>
-<node ID="ID_765659521" 
-	TEXT="3G 终端"/>
+<node FOLDED="true" ID="ID_765659521" 
+	TEXT="3G 终端">
+<node ID="ID_394868754" LINK="http://www.feya-cc.com/cpzs2.asp" 
+	TEXT="3G家庭信息机、家庭健康机等多种产品，请点击查看网站"/>
+<node FOLDED="true" ID="ID_1852311360" 
+	TEXT="整体解决方案">
+<node ID="ID_863088681" 
+	TEXT="家居安防--与开发商或物业合作"/>
+<node ID="ID_1761895439" 
+	TEXT="健康监护--与康体佳联盟合作"/>
+</node>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1353072046" 
 	TEXT="NSN">
 <node ID="ID_519870397" 
 	TEXT="多屏互动"/>
 <node ID="ID_35749419" 
-	TEXT="对不同终端做不同的编码，再从服务器下发"/>
+	TEXT="服务器对不同终端做不同的编码，然后再下发"/>
+</node>
+<node FOLDED="true" ID="ID_1906186931" 
+	TEXT="中兴">
+<node ID="ID_1566865631" 
+	TEXT="物联网"/>
+</node>
+<node FOLDED="true" ID="ID_310890981" 
+	TEXT="华为">
+<node FOLDED="true" ID="ID_1238782828" 
+	TEXT="SingleCloud">
+<node ID="ID_108512835" 
+	TEXT="针对小型企业和分布式办公，主机、局域网都在云上。"/>
+</node>
+<node FOLDED="true" ID="ID_540556084" 
+	TEXT="云盘">
+<node ID="ID_997287870" 
+	TEXT="专有U盘，插在电脑上，虚拟出几百G的磁盘。其实是连接到云服务器上。"/>
+</node>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1241369221" POSITION="left" 
