@@ -281,5 +281,43 @@
 <node ID="ID_670914102" 
 	TEXT="国外都是 skype"/>
 </node>
+<node FOLDED="true" ID="ID_1788448209" POSITION="left" 
+	TEXT="IMS">
+<node ID="ID_564382004" 
+	TEXT="IP Multimedia Subsystem "/>
+<node ID="ID_1832096359" 
+	TEXT="ChinaMobile promote IMS because of the lack of fixed network"/>
+<node ID="ID_780247658" 
+	TEXT="IMS全部采用会话初始协议（SIP）作为呼叫控制和业务控制的信令"/>
+</node>
+<node FOLDED="true" ID="ID_1563967335" POSITION="left" 
+	TEXT="MoCA">
+<node ID="ID_1096560888" 
+	TEXT="MoCA 即Multimedia over Coax Alliance（同轴电缆多媒体联盟）">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      MoCA 即Multimedia over Coax Alliance（同轴电缆多媒体联盟），是产业标准，提供基于同轴电缆的宽带接入和家庭网络产品方案，MoCA 的成员包括运营商，系统设备制造商，芯片供应商，构成完整的产业链，c.LINKTM是Entropic 公司基于MoCA 技术的同轴电缆接入产品的商标。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_185966945" POSITION="right" 
+	TEXT="ChinaMobile">
+<node FOLDED="true" ID="ID_1908168363" 
+	TEXT="宜居通">
+<node ID="ID_424422990" 
+	TEXT="宜居通业务主要为家庭用户提供安防功能，其终端产品在现有TD无线座机的基础上，集成了安防模块，支持门磁、红外、烟感、燃气等多路无线传感设备接入，支持短信实时告警；下一阶段主机产品还将融合无线上网、智能家电控制等多种功能。"/>
+</node>
+<node COLOR="#b3b95c" ID="ID_1683804549" 
+	TEXT="企业飞信"/>
+<node COLOR="#b3b95c" ID="ID_1800412870" 
+	TEXT="千里眼"/>
+</node>
 </node>
 </map>
