@@ -37,5 +37,38 @@
 	TEXT="联通合作"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1471476842" POSITION="right" 
+	TEXT="视频会议">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    <title>网络链路质量</title>
+    
+  </head>
+  <body>
+  </body>
+</html>
+</richcontent>
+<node FOLDED="true" ID="ID_238476068" LINK="http://www.webex.com/" 
+	TEXT="WebEx">
+<node ID="ID_432346280" 
+	TEXT="WebEx服务器是全球分布式部署，全球运营"/>
+</node>
+<node ID="ID_1368969065" 
+	TEXT="V2"/>
+<node FOLDED="true" ID="ID_56279819" LINK="http://www.cenwave.com/" 
+	TEXT="cenwave 盛维">
+<node ID="ID_625821185" 
+	TEXT="可能要被华为收购。华为今后的交换机中都要带视频会议系统"/>
+<node ID="ID_1237295449" 
+	TEXT="有嵌入式硬件产品"/>
+</node>
+<node ID="ID_307918272" 
+	TEXT="华平"/>
+<node FOLDED="true" ID="ID_891437005" 
+	TEXT="红杉树">
+<node ID="ID_940394270" 
+	TEXT="红杉树老板朱敏是WEBEX的创始人"/>
+</node>
+</node>
 </node>
 </map>
