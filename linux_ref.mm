@@ -138,5 +138,12 @@
 <node ID="ID_1499382732" 
 	TEXT="zssh  身边的人都用SecureCRT，一个强大的ssh客户端。例如有两个SSH服务，分别为A机和B机，A机没有写权限，B机不能直接用SSH客户端登录，需要先登录A机，然后再从A机登录B机。如果是这样再需要把本地的文件传到B机上就不知道怎么办了。但如果SecureCRT就可以用rz上传，在B机的路径下输入rz就会跳出个文件选择窗口……很方便。  在apt中搜索到一个zssh，查了下果然就是它，用法是： 像用ssh命令一样用zssh登录主机； 在命令输入状态中按下ctrl+2(@键)进入zssh状态； $sz 本地文件名 上传文件完成（我在用时输出了一些乱码，但没影响上传） 下载是反出来的，先sz文件再ctrl+2再输入rz"/>
 </node>
+<node FOLDED="true" ID="ID_1616096968" POSITION="right" 
+	TEXT="命令">
+<node ID="ID_859332246" 
+	TEXT="du 查看文件夹大小"/>
+<node ID="ID_144511917" 
+	TEXT="fc-list"/>
+</node>
 </node>
 </map>

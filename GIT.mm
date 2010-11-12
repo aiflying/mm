@@ -71,6 +71,8 @@
 <node ID="ID_1399661390" 
 	TEXT="创建分支"/>
 </node>
+<node ID="ID_525864864" 
+	TEXT="gitignore"/>
 <node ID="ID_1678059833" 
 	TEXT="提交改动">
 <icon BUILTIN="idea"/>
